@@ -1,5 +1,3 @@
-Here is the updated README with a hyperlink to the `unsilence` tool:
-
 # Verrix 4.0
 
 ## Overview
@@ -19,6 +17,7 @@ Verrix 4.0 is a Python script designed to process video files by removing silenc
 - `time` module (included in Python standard library)
 - `hashlib` module (included in Python standard library)
 - An external tool named [unsilence](https://github.com/miranhpark/unsilence) for processing audio.
+- (optional) [sharedown](https://github.com/kylon/Sharedown) for downloading the videos from MS Sharepoint
 
 ## Installation
 
