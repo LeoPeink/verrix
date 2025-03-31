@@ -51,8 +51,3 @@ Follow the prompts to complete your tasks.
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/24242220/d57aa4d5-bb23-4dab-91d2-3a56563510e9/verrix_v4.bat
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/24242220/0e7fe6d0-e925-4f2d-82ad-fe7f952f4460/verrix_v4.py
-[3] https://github.com/miranhpark/unsilence
